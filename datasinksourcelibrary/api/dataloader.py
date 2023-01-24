@@ -1,4 +1,4 @@
-from data.source_base import Source
+from datasinksourcelibrary.source_base import Source
 
 import pandas as pd
 import requests

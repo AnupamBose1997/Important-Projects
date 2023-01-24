@@ -3,8 +3,8 @@ import os
 from urllib.parse import quote
 
 import pandas as pd
-from data.sink_base import Sink
-from data.source_base import Source
+from datasinksourcelibrary.sink_base import Sink
+from datasinksourcelibrary.source_base import Source
 from sqlalchemy import create_engine
 
 

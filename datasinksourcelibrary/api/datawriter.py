@@ -1,4 +1,4 @@
-from data.sink_base import Sink
+from datasinksourcelibrary.sink_base import Sink
 
 import requests
 import pandas as pd
