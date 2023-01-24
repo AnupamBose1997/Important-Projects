@@ -1,0 +1,757 @@
+CCG_NAME,DENTIST_AGE_GROUP,NUMBER_OF_DENTIST,AVG_IMD_SCORE,Category
+NHS Bradford City CCG,35-44,31,52.139,1
+NHS Bradford City CCG,45-54,19,52.139,1
+NHS Bradford City CCG,55+,10,52.139,1
+NHS Bradford City CCG,Under 35,48,52.139,1
+NHS Blackpool CCG,35-44,21,45.039,1
+NHS Blackpool CCG,45-54,24,45.039,1
+NHS Blackpool CCG,55+,14,45.039,1
+NHS Blackpool CCG,Under 35,25,45.039,1
+NHS Knowsley CCG,35-44,39,43.006,1
+NHS Knowsley CCG,45-54,13,43.006,1
+NHS Knowsley CCG,55+,12,43.006,1
+NHS Knowsley CCG,Under 35,26,43.006,1
+NHS Liverpool CCG,35-44,81,42.412,1
+NHS Liverpool CCG,45-54,51,42.412,1
+NHS Liverpool CCG,55+,36,42.412,1
+NHS Liverpool CCG,Under 35,113,42.412,1
+NHS Hull CCG,35-44,44,40.564,1
+NHS Hull CCG,45-54,32,40.564,1
+NHS Hull CCG,55+,20,40.564,1
+NHS Hull CCG,Under 35,44,40.564,1
+NHS Manchester CCG,35-44,91,40.005,1
+NHS Manchester CCG,45-54,49,40.005,1
+NHS Manchester CCG,55+,32,40.005,1
+NHS Manchester CCG,Under 35,163,40.005,1
+NHS Sandwell and West Birmingham CCG,35-44,104,37.643,2
+NHS Sandwell and West Birmingham CCG,45-54,42,37.643,2
+NHS Sandwell and West Birmingham CCG,55+,34,37.643,2
+NHS Sandwell and West Birmingham CCG,Under 35,171,37.643,2
+NHS Blackburn with Darwen CCG,35-44,29,36.013,2
+NHS Blackburn with Darwen CCG,45-54,20,36.013,2
+NHS Blackburn with Darwen CCG,55+,17,36.013,2
+NHS Blackburn with Darwen CCG,Under 35,48,36.013,2
+NHS South Tees CCG,35-44,49,35.203,2
+NHS South Tees CCG,45-54,24,35.203,2
+NHS South Tees CCG,55+,23,35.203,2
+NHS South Tees CCG,Under 35,57,35.203,2
+NHS Nottingham City CCG,35-44,45,34.891,2
+NHS Nottingham City CCG,45-54,46,34.891,2
+NHS Nottingham City CCG,55+,22,34.891,2
+NHS Nottingham City CCG,Under 35,84,34.891,2
+"NHS Heywood, Middleton and Rochdale CCG",35-44,34,34.415,2
+"NHS Heywood, Middleton and Rochdale CCG",45-54,24,34.415,2
+"NHS Heywood, Middleton and Rochdale CCG",55+,11,34.415,2
+"NHS Heywood, Middleton and Rochdale CCG",Under 35,82,34.415,2
+NHS Salford CCG,35-44,37,34.21,2
+NHS Salford CCG,45-54,28,34.21,2
+NHS Salford CCG,55+,15,34.21,2
+NHS Salford CCG,Under 35,94,34.21,2
+NHS Bradford Districts CCG,35-44,48,33.94,2
+NHS Bradford Districts CCG,45-54,27,33.94,2
+NHS Bradford Districts CCG,55+,11,33.94,2
+NHS Bradford Districts CCG,Under 35,71,33.94,2
+NHS Stoke on Trent CCG,35-44,39,33.727,2
+NHS Stoke on Trent CCG,45-54,26,33.727,2
+NHS Stoke on Trent CCG,55+,17,33.727,2
+NHS Stoke on Trent CCG,Under 35,41,33.727,2
+NHS Birmingham and Solihull CCG,35-44,173,33.589,2
+NHS Birmingham and Solihull CCG,45-54,91,33.589,2
+NHS Birmingham and Solihull CCG,55+,72,33.589,2
+NHS Birmingham and Solihull CCG,Under 35,258,33.589,2
+NHS Oldham CCG,35-44,40,33.155,2
+NHS Oldham CCG,45-54,25,33.155,2
+NHS Oldham CCG,55+,19,33.155,2
+NHS Oldham CCG,Under 35,81,33.155,2
+NHS Barking and Dagenham CCG,35-44,30,32.768,2
+NHS Barking and Dagenham CCG,45-54,16,32.768,2
+NHS Barking and Dagenham CCG,55+,8,32.768,2
+NHS Barking and Dagenham CCG,Under 35,73,32.768,2
+NHS South Sefton CCG,35-44,27,32.588,2
+NHS South Sefton CCG,45-54,22,32.588,2
+NHS South Sefton CCG,55+,14,32.588,2
+NHS South Sefton CCG,Under 35,48,32.588,2
+NHS Halton CCG,35-44,17,32.325,2
+NHS Halton CCG,45-54,10,32.325,2
+NHS Halton CCG,55+,7,32.325,2
+NHS Halton CCG,Under 35,18,32.325,2
+NHS Wolverhampton CCG,35-44,34,32.102,2
+NHS Wolverhampton CCG,45-54,27,32.102,2
+NHS Wolverhampton CCG,55+,11,32.102,2
+NHS Wolverhampton CCG,Under 35,75,32.102,2
+NHS City and Hackney CCG,35-44,23,32.094,2
+NHS City and Hackney CCG,45-54,25,32.094,2
+NHS City and Hackney CCG,55+,12,32.094,2
+NHS City and Hackney CCG,Under 35,58,32.094,2
+NHS Walsall CCG,35-44,45,31.555,2
+NHS Walsall CCG,45-54,13,31.555,2
+NHS Walsall CCG,55+,14,31.555,2
+NHS Walsall CCG,Under 35,61,31.555,2
+NHS St Helens CCG,35-44,27,31.518,2
+NHS St Helens CCG,45-54,21,31.518,2
+NHS St Helens CCG,55+,16,31.518,2
+NHS St Helens CCG,Under 35,51,31.518,2
+NHS South Tyneside CCG,35-44,41,31.509,2
+NHS South Tyneside CCG,45-54,18,31.509,2
+NHS South Tyneside CCG,55+,9,31.509,2
+NHS South Tyneside CCG,Under 35,61,31.509,2
+"NHS Durham Dales, Easington and Sedgefield CCG",35-44,29,31.361,2
+"NHS Durham Dales, Easington and Sedgefield CCG",45-54,18,31.361,2
+"NHS Durham Dales, Easington and Sedgefield CCG",55+,10,31.361,2
+"NHS Durham Dales, Easington and Sedgefield CCG",Under 35,63,31.361,2
+NHS North East Lincolnshire CCG,35-44,17,31.335,2
+NHS North East Lincolnshire CCG,45-54,16,31.335,2
+NHS North East Lincolnshire CCG,55+,17,31.335,2
+NHS North East Lincolnshire CCG,Under 35,15,31.335,2
+NHS Thanet CCG,35-44,32,31.314,2
+NHS Thanet CCG,45-54,14,31.314,2
+NHS Thanet CCG,55+,8,31.314,2
+NHS Thanet CCG,Under 35,13,31.314,2
+NHS Leicester City CCG,35-44,88,30.877,2
+NHS Leicester City CCG,45-54,34,30.877,2
+NHS Leicester City CCG,55+,27,30.877,2
+NHS Leicester City CCG,Under 35,111,30.877,2
+NHS Bolton CCG,35-44,44,30.691,2
+NHS Bolton CCG,45-54,21,30.691,2
+NHS Bolton CCG,55+,15,30.691,2
+NHS Bolton CCG,Under 35,82,30.691,2
+NHS Sunderland CCG,35-44,32,30.586,2
+NHS Sunderland CCG,45-54,29,30.586,2
+NHS Sunderland CCG,55+,9,30.586,2
+NHS Sunderland CCG,Under 35,61,30.586,2
+NHS Doncaster CCG,35-44,47,30.289,2
+NHS Doncaster CCG,45-54,45,30.289,2
+NHS Doncaster CCG,55+,36,30.289,2
+NHS Doncaster CCG,Under 35,65,30.289,2
+NHS Barnsley CCG,35-44,59,29.933,3
+NHS Barnsley CCG,45-54,25,29.933,3
+NHS Barnsley CCG,55+,17,29.933,3
+NHS Barnsley CCG,Under 35,49,29.933,3
+NHS Wirral CCG,35-44,44,29.589,3
+NHS Wirral CCG,45-54,37,29.589,3
+NHS Wirral CCG,55+,20,29.589,3
+NHS Wirral CCG,Under 35,101,29.589,3
+NHS Newham CCG,35-44,52,29.577,3
+NHS Newham CCG,45-54,29,29.577,3
+NHS Newham CCG,55+,17,29.577,3
+NHS Newham CCG,Under 35,85,29.577,3
+NHS Rotherham CCG,35-44,36,29.55,3
+NHS Rotherham CCG,45-54,25,29.55,3
+NHS Rotherham CCG,55+,15,29.55,3
+NHS Rotherham CCG,Under 35,103,29.55,3
+NHS Tameside and Glossop CCG,35-44,48,29.539,3
+NHS Tameside and Glossop CCG,45-54,19,29.539,3
+NHS Tameside and Glossop CCG,55+,14,29.539,3
+NHS Tameside and Glossop CCG,Under 35,64,29.539,3
+NHS East Lancashire CCG,35-44,75,29.383,3
+NHS East Lancashire CCG,45-54,37,29.383,3
+NHS East Lancashire CCG,55+,30,29.383,3
+NHS East Lancashire CCG,Under 35,102,29.383,3
+NHS Great Yarmouth and Waveney CCG,35-44,26,29.17,3
+NHS Great Yarmouth and Waveney CCG,45-54,34,29.17,3
+NHS Great Yarmouth and Waveney CCG,55+,25,29.17,3
+NHS Great Yarmouth and Waveney CCG,Under 35,42,29.17,3
+NHS Newcastle Gateshead CCG,35-44,88,29.145,3
+NHS Newcastle Gateshead CCG,45-54,48,29.145,3
+NHS Newcastle Gateshead CCG,55+,37,29.145,3
+NHS Newcastle Gateshead CCG,Under 35,162,29.145,3
+NHS Hartlepool and Stockton-on-Tees CCG,35-44,57,28.774,3
+NHS Hartlepool and Stockton-on-Tees CCG,45-54,31,28.774,3
+NHS Hartlepool and Stockton-on-Tees CCG,55+,13,28.774,3
+NHS Hartlepool and Stockton-on-Tees CCG,Under 35,56,28.774,3
+NHS North Kirklees CCG,35-44,27,28.665,3
+NHS North Kirklees CCG,45-54,17,28.665,3
+NHS North Kirklees CCG,55+,12,28.665,3
+NHS North Kirklees CCG,Under 35,61,28.665,3
+NHS Swale CCG,35-44,34,28.417,3
+NHS Swale CCG,45-54,8,28.417,3
+NHS Swale CCG,55+,12,28.417,3
+NHS Swale CCG,Under 35,19,28.417,3
+NHS Mansfield and Ashfield CCG,35-44,31,27.999,3
+NHS Mansfield and Ashfield CCG,45-54,31,27.999,3
+NHS Mansfield and Ashfield CCG,55+,7,27.999,3
+NHS Mansfield and Ashfield CCG,Under 35,23,27.999,3
+NHS Haringey CCG,35-44,49,27.956,3
+NHS Haringey CCG,45-54,34,27.956,3
+NHS Haringey CCG,55+,28,27.956,3
+NHS Haringey CCG,Under 35,96,27.956,3
+NHS Tower Hamlets CCG,35-44,39,27.913,3
+NHS Tower Hamlets CCG,45-54,28,27.913,3
+NHS Tower Hamlets CCG,55+,15,27.913,3
+NHS Tower Hamlets CCG,Under 35,63,27.913,3
+NHS Islington CCG,35-44,49,27.535,3
+NHS Islington CCG,45-54,25,27.535,3
+NHS Islington CCG,55+,12,27.535,3
+NHS Islington CCG,Under 35,83,27.535,3
+NHS Wakefield CCG,35-44,50,27.306,3
+NHS Wakefield CCG,45-54,35,27.306,3
+NHS Wakefield CCG,55+,21,27.306,3
+NHS Wakefield CCG,Under 35,103,27.306,3
+NHS Leeds CCG,35-44,124,27.301,3
+NHS Leeds CCG,45-54,64,27.301,3
+NHS Leeds CCG,55+,49,27.301,3
+NHS Leeds CCG,Under 35,200,27.301,3
+NHS Sheffield CCG,35-44,98,27.06,3
+NHS Sheffield CCG,45-54,59,27.06,3
+NHS Sheffield CCG,55+,39,27.06,3
+NHS Sheffield CCG,Under 35,160,27.06,3
+NHS Hastings and Rother CCG,35-44,40,26.975,3
+NHS Hastings and Rother CCG,45-54,36,26.975,3
+NHS Hastings and Rother CCG,55+,28,26.975,3
+NHS Hastings and Rother CCG,Under 35,32,26.975,3
+NHS Portsmouth CCG,35-44,62,26.899,3
+NHS Portsmouth CCG,45-54,27,26.899,3
+NHS Portsmouth CCG,55+,19,26.899,3
+NHS Portsmouth CCG,Under 35,52,26.899,3
+NHS Southampton CCG,35-44,57,26.876,3
+NHS Southampton CCG,45-54,34,26.876,3
+NHS Southampton CCG,55+,33,26.876,3
+NHS Southampton CCG,Under 35,65,26.876,3
+NHS Lewisham CCG,35-44,66,26.661,3
+NHS Lewisham CCG,45-54,35,26.661,3
+NHS Lewisham CCG,55+,19,26.661,3
+NHS Lewisham CCG,Under 35,127,26.661,3
+NHS Lincolnshire East CCG,35-44,37,26.521,3
+NHS Lincolnshire East CCG,45-54,24,26.521,3
+NHS Lincolnshire East CCG,55+,18,26.521,3
+NHS Lincolnshire East CCG,Under 35,32,26.521,3
+NHS Calderdale CCG,35-44,41,26.351,3
+NHS Calderdale CCG,45-54,17,26.351,3
+NHS Calderdale CCG,55+,9,26.351,3
+NHS Calderdale CCG,Under 35,60,26.351,3
+NHS Luton CCG,35-44,21,25.908,3
+NHS Luton CCG,45-54,13,25.908,3
+NHS Luton CCG,55+,5,25.908,3
+NHS Luton CCG,Under 35,62,25.908,3
+NHS Southwark CCG,35-44,57,25.811,3
+NHS Southwark CCG,45-54,33,25.811,3
+NHS Southwark CCG,55+,18,25.811,3
+NHS Southwark CCG,Under 35,60,25.811,3
+NHS Enfield CCG,35-44,71,25.781,3
+NHS Enfield CCG,45-54,30,25.781,3
+NHS Enfield CCG,55+,25,25.781,3
+NHS Enfield CCG,Under 35,81,25.781,3
+NHS Wigan Borough CCG,35-44,58,25.713,3
+NHS Wigan Borough CCG,45-54,27,25.713,3
+NHS Wigan Borough CCG,55+,21,25.713,3
+NHS Wigan Borough CCG,Under 35,82,25.713,3
+NHS Corby CCG,35-44,13,25.706,3
+NHS Corby CCG,45-54,4,25.706,3
+NHS Corby CCG,55+,10,25.706,3
+NHS Corby CCG,Under 35,6,25.706,3
+NHS Darlington CCG,35-44,27,25.657,3
+NHS Darlington CCG,45-54,13,25.657,3
+NHS Darlington CCG,55+,6,25.657,3
+NHS Darlington CCG,Under 35,28,25.657,3
+NHS Brent CCG,35-44,65,25.558,3
+NHS Brent CCG,45-54,42,25.558,3
+NHS Brent CCG,55+,27,25.558,3
+NHS Brent CCG,Under 35,110,25.558,3
+NHS Lambeth CCG,35-44,58,25.422,3
+NHS Lambeth CCG,45-54,32,25.422,3
+NHS Lambeth CCG,55+,21,25.422,3
+NHS Lambeth CCG,Under 35,92,25.422,3
+NHS Waltham Forest CCG,35-44,30,25.209,3
+NHS Waltham Forest CCG,45-54,20,25.209,3
+NHS Waltham Forest CCG,55+,16,25.209,3
+NHS Waltham Forest CCG,Under 35,68,25.209,3
+NHS Telford and Wrekin CCG,35-44,44,24.988,3
+NHS Telford and Wrekin CCG,45-54,27,24.988,3
+NHS Telford and Wrekin CCG,55+,12,24.988,3
+NHS Telford and Wrekin CCG,Under 35,47,24.988,3
+NHS Scarborough and Ryedale CCG,35-44,19,24.629,3
+NHS Scarborough and Ryedale CCG,45-54,16,24.629,3
+NHS Scarborough and Ryedale CCG,55+,8,24.629,3
+NHS Scarborough and Ryedale CCG,Under 35,18,24.629,3
+NHS Greenwich CCG,35-44,44,24.464,3
+NHS Greenwich CCG,45-54,27,24.464,3
+NHS Greenwich CCG,55+,22,24.464,3
+NHS Greenwich CCG,Under 35,114,24.464,3
+NHS Dudley CCG,35-44,54,24.103,3
+NHS Dudley CCG,45-54,16,24.103,3
+NHS Dudley CCG,55+,10,24.103,3
+NHS Dudley CCG,Under 35,95,24.103,3
+NHS Greater Preston CCG,35-44,34,23.938,3
+NHS Greater Preston CCG,45-54,24,23.938,3
+NHS Greater Preston CCG,55+,9,23.938,3
+NHS Greater Preston CCG,Under 35,31,23.938,3
+NHS Medway CCG,35-44,61,23.936,3
+NHS Medway CCG,45-54,52,23.936,3
+NHS Medway CCG,55+,28,23.936,3
+NHS Medway CCG,Under 35,81,23.936,3
+NHS South Kent Coast CCG,35-44,32,23.701,3
+NHS South Kent Coast CCG,45-54,12,23.701,3
+NHS South Kent Coast CCG,55+,24,23.701,3
+NHS South Kent Coast CCG,Under 35,28,23.701,3
+NHS Bury CCG,35-44,42,23.682,3
+NHS Bury CCG,45-54,19,23.682,3
+NHS Bury CCG,55+,12,23.682,3
+NHS Bury CCG,Under 35,72,23.682,3
+NHS West Norfolk CCG,35-44,17,23.446,3
+NHS West Norfolk CCG,45-54,16,23.446,3
+NHS West Norfolk CCG,55+,15,23.446,3
+NHS West Norfolk CCG,Under 35,11,23.446,3
+NHS Isle of Wight CCG,35-44,24,23.294,3
+NHS Isle of Wight CCG,45-54,16,23.294,3
+NHS Isle of Wight CCG,55+,13,23.294,3
+NHS Isle of Wight CCG,Under 35,10,23.294,3
+NHS Kernow CCG,35-44,88,23.025,3
+NHS Kernow CCG,45-54,58,23.025,3
+NHS Kernow CCG,55+,55,23.025,3
+NHS Kernow CCG,Under 35,68,23.025,3
+NHS Coventry and Rugby CCG,35-44,59,22.937,3
+NHS Coventry and Rugby CCG,45-54,36,22.937,3
+NHS Coventry and Rugby CCG,55+,25,22.937,3
+NHS Coventry and Rugby CCG,Under 35,82,22.937,3
+NHS North East Essex CCG,35-44,45,22.727,3
+NHS North East Essex CCG,45-54,31,22.727,3
+NHS North East Essex CCG,55+,23,22.727,3
+NHS North East Essex CCG,Under 35,54,22.727,3
+NHS Ealing CCG,35-44,73,22.71,3
+NHS Ealing CCG,45-54,45,22.71,3
+NHS Ealing CCG,55+,33,22.71,3
+NHS Ealing CCG,Under 35,102,22.71,3
+NHS Bassetlaw CCG,35-44,19,22.588,3
+NHS Bassetlaw CCG,45-54,16,22.588,3
+NHS Bassetlaw CCG,55+,11,22.588,3
+NHS Bassetlaw CCG,Under 35,33,22.588,3
+NHS Croydon CCG,35-44,73,22.477,3
+NHS Croydon CCG,45-54,54,22.477,3
+NHS Croydon CCG,55+,36,22.477,3
+NHS Croydon CCG,Under 35,119,22.477,3
+NHS Wyre Forest CCG,35-44,19,22.437,3
+NHS Wyre Forest CCG,45-54,15,22.437,3
+NHS Wyre Forest CCG,55+,10,22.437,3
+NHS Wyre Forest CCG,Under 35,31,22.437,3
+NHS Greater Huddersfield CCG,35-44,43,22.401,3
+NHS Greater Huddersfield CCG,45-54,20,22.401,3
+NHS Greater Huddersfield CCG,55+,20,22.401,3
+NHS Greater Huddersfield CCG,Under 35,71,22.401,3
+NHS Southend CCG,35-44,34,22.375,3
+NHS Southend CCG,45-54,18,22.375,3
+NHS Southend CCG,55+,24,22.375,3
+NHS Southend CCG,Under 35,43,22.375,3
+NHS West London CCG,35-44,54,22.348,3
+NHS West London CCG,45-54,29,22.348,3
+NHS West London CCG,55+,15,22.348,3
+NHS West London CCG,Under 35,76,22.348,3
+NHS North Tyneside CCG,35-44,43,22.279,3
+NHS North Tyneside CCG,45-54,23,22.279,3
+NHS North Tyneside CCG,55+,10,22.279,3
+NHS North Tyneside CCG,Under 35,60,22.279,3
+NHS Hammersmith and Fulham CCG,35-44,58,22.27,3
+NHS Hammersmith and Fulham CCG,45-54,29,22.27,3
+NHS Hammersmith and Fulham CCG,55+,13,22.27,3
+NHS Hammersmith and Fulham CCG,Under 35,64,22.27,3
+NHS North Lincolnshire CCG,35-44,21,22.096,3
+NHS North Lincolnshire CCG,45-54,14,22.096,3
+NHS North Lincolnshire CCG,55+,13,22.096,3
+NHS North Lincolnshire CCG,Under 35,11,22.096,3
+NHS Northumberland CCG,35-44,60,22.079,3
+NHS Northumberland CCG,45-54,52,22.079,3
+NHS Northumberland CCG,55+,20,22.079,3
+NHS Northumberland CCG,Under 35,91,22.079,3
+NHS North Cumbria CCG,35-44,64,21.863,3
+NHS North Cumbria CCG,45-54,49,21.863,3
+NHS North Cumbria CCG,55+,29,21.863,3
+NHS North Cumbria CCG,Under 35,58,21.863,3
+NHS Morecambe Bay CCG,35-44,53,21.78,3
+NHS Morecambe Bay CCG,45-54,48,21.78,3
+NHS Morecambe Bay CCG,55+,34,21.78,3
+NHS Morecambe Bay CCG,Under 35,44,21.78,3
+NHS Norwich CCG,35-44,48,21.691,3
+NHS Norwich CCG,45-54,48,21.691,3
+NHS Norwich CCG,55+,27,21.691,3
+NHS Norwich CCG,Under 35,49,21.691,3
+NHS North Durham CCG,35-44,32,21.682,3
+NHS North Durham CCG,45-54,20,21.682,3
+NHS North Durham CCG,55+,17,21.682,3
+NHS North Durham CCG,Under 35,94,21.682,3
+NHS Warwickshire North CCG,35-44,35,21.673,3
+NHS Warwickshire North CCG,45-54,18,21.673,3
+NHS Warwickshire North CCG,55+,7,21.673,3
+NHS Warwickshire North CCG,Under 35,55,21.673,3
+NHS Hounslow CCG,35-44,65,21.487,3
+NHS Hounslow CCG,45-54,44,21.487,3
+NHS Hounslow CCG,55+,18,21.487,3
+NHS Hounslow CCG,Under 35,68,21.487,3
+NHS Thurrock CCG,35-44,16,20.928,3
+NHS Thurrock CCG,45-54,12,20.928,3
+NHS Thurrock CCG,55+,11,20.928,3
+NHS Thurrock CCG,Under 35,42,20.928,3
+NHS Stockport CCG,35-44,69,20.826,3
+NHS Stockport CCG,45-54,38,20.826,3
+NHS Stockport CCG,55+,22,20.826,3
+NHS Stockport CCG,Under 35,75,20.826,3
+NHS Brighton and Hove CCG,35-44,48,20.761,3
+NHS Brighton and Hove CCG,45-54,49,20.761,3
+NHS Brighton and Hove CCG,55+,28,20.761,3
+NHS Brighton and Hove CCG,Under 35,62,20.761,3
+NHS Lincolnshire West CCG,35-44,31,20.273,3
+NHS Lincolnshire West CCG,45-54,20,20.273,3
+NHS Lincolnshire West CCG,55+,17,20.273,3
+NHS Lincolnshire West CCG,Under 35,46,20.273,3
+"NHS Airedale, Wharfedale and Craven CCG",35-44,24,20.194,3
+"NHS Airedale, Wharfedale and Craven CCG",45-54,16,20.194,3
+"NHS Airedale, Wharfedale and Craven CCG",55+,13,20.194,3
+"NHS Airedale, Wharfedale and Craven CCG",Under 35,26,20.194,3
+NHS Camden CCG,35-44,48,20.131,3
+NHS Camden CCG,45-54,28,20.131,3
+NHS Camden CCG,55+,21,20.131,3
+NHS Camden CCG,Under 35,56,20.131,3
+"NHS Bristol, North Somerset and South Gloucestershire CCG",35-44,157,19.693,4
+"NHS Bristol, North Somerset and South Gloucestershire CCG",45-54,88,19.693,4
+"NHS Bristol, North Somerset and South Gloucestershire CCG",55+,69,19.693,4
+"NHS Bristol, North Somerset and South Gloucestershire CCG",Under 35,196,19.693,4
+NHS Southport and Formby CCG,35-44,15,19.405,4
+NHS Southport and Formby CCG,45-54,22,19.405,4
+NHS Southport and Formby CCG,55+,6,19.405,4
+NHS Southport and Formby CCG,Under 35,36,19.405,4
+NHS Basildon and Brentwood CCG,35-44,31,19.329,4
+NHS Basildon and Brentwood CCG,45-54,32,19.329,4
+NHS Basildon and Brentwood CCG,55+,21,19.329,4
+NHS Basildon and Brentwood CCG,Under 35,55,19.329,4
+"NHS Dartford, Gravesham and Swanley CCG",35-44,52,19.242,4
+"NHS Dartford, Gravesham and Swanley CCG",45-54,19,19.242,4
+"NHS Dartford, Gravesham and Swanley CCG",55+,19,19.242,4
+"NHS Dartford, Gravesham and Swanley CCG",Under 35,74,19.242,4
+NHS Cannock Chase CCG,35-44,31,19.232,4
+NHS Cannock Chase CCG,45-54,10,19.232,4
+NHS Cannock Chase CCG,55+,4,19.232,4
+NHS Cannock Chase CCG,Under 35,31,19.232,4
+NHS Vale Royal CCG,35-44,16,19.164,4
+NHS Vale Royal CCG,45-54,16,19.164,4
+NHS Vale Royal CCG,55+,10,19.164,4
+NHS Vale Royal CCG,Under 35,21,19.164,4
+NHS Warrington CCG,35-44,39,18.942,4
+NHS Warrington CCG,45-54,26,18.942,4
+NHS Warrington CCG,55+,9,18.942,4
+NHS Warrington CCG,Under 35,60,18.942,4
+NHS Crawley CCG,35-44,31,18.94,4
+NHS Crawley CCG,45-54,11,18.94,4
+NHS Crawley CCG,55+,16,18.94,4
+NHS Crawley CCG,Under 35,46,18.94,4
+NHS Newark and Sherwood CCG,35-44,26,18.913,4
+NHS Newark and Sherwood CCG,45-54,20,18.913,4
+NHS Newark and Sherwood CCG,55+,6,18.913,4
+NHS Newark and Sherwood CCG,Under 35,23,18.913,4
+NHS Herefordshire CCG,35-44,32,18.89,4
+NHS Herefordshire CCG,45-54,36,18.89,4
+NHS Herefordshire CCG,55+,20,18.89,4
+NHS Herefordshire CCG,Under 35,22,18.89,4
+"NHS Eastbourne, Hailsham and Seaford CCG",35-44,36,18.839,4
+"NHS Eastbourne, Hailsham and Seaford CCG",45-54,31,18.839,4
+"NHS Eastbourne, Hailsham and Seaford CCG",55+,22,18.839,4
+"NHS Eastbourne, Hailsham and Seaford CCG",Under 35,44,18.839,4
+NHS Central London (Westminster) CCG,35-44,34,18.795,4
+NHS Central London (Westminster) CCG,45-54,20,18.795,4
+NHS Central London (Westminster) CCG,55+,16,18.795,4
+NHS Central London (Westminster) CCG,Under 35,60,18.795,4
+NHS Fylde and Wyre CCG,35-44,38,18.723,4
+NHS Fylde and Wyre CCG,45-54,18,18.723,4
+NHS Fylde and Wyre CCG,55+,14,18.723,4
+NHS Fylde and Wyre CCG,Under 35,43,18.723,4
+NHS West Lancashire CCG,35-44,20,18.645,4
+NHS West Lancashire CCG,45-54,14,18.645,4
+NHS West Lancashire CCG,55+,8,18.645,4
+NHS West Lancashire CCG,Under 35,36,18.645,4
+NHS Somerset CCG,35-44,95,18.553,4
+NHS Somerset CCG,45-54,61,18.553,4
+NHS Somerset CCG,55+,41,18.553,4
+NHS Somerset CCG,Under 35,125,18.553,4
+NHS Ashford CCG,35-44,34,18.546,4
+NHS Ashford CCG,45-54,8,18.546,4
+NHS Ashford CCG,55+,11,18.546,4
+NHS Ashford CCG,Under 35,16,18.546,4
+NHS Swindon CCG,35-44,35,18.274,4
+NHS Swindon CCG,45-54,28,18.274,4
+NHS Swindon CCG,55+,15,18.274,4
+NHS Swindon CCG,Under 35,26,18.274,4
+NHS Hillingdon CCG,35-44,66,18.223,4
+NHS Hillingdon CCG,45-54,32,18.223,4
+NHS Hillingdon CCG,55+,16,18.223,4
+NHS Hillingdon CCG,Under 35,65,18.223,4
+NHS East Staffordshire CCG,35-44,22,18.151,4
+NHS East Staffordshire CCG,45-54,20,18.151,4
+NHS East Staffordshire CCG,55+,10,18.151,4
+NHS East Staffordshire CCG,Under 35,30,18.151,4
+NHS Nene CCG,35-44,104,18.071,4
+NHS Nene CCG,45-54,35,18.071,4
+NHS Nene CCG,55+,39,18.071,4
+NHS Nene CCG,Under 35,124,18.071,4
+NHS North Norfolk CCG,35-44,19,17.904,4
+NHS North Norfolk CCG,45-54,21,17.904,4
+NHS North Norfolk CCG,55+,14,17.904,4
+NHS North Norfolk CCG,Under 35,13,17.904,4
+NHS Milton Keynes CCG,35-44,30,17.761,4
+NHS Milton Keynes CCG,45-54,19,17.761,4
+NHS Milton Keynes CCG,55+,20,17.761,4
+NHS Milton Keynes CCG,Under 35,61,17.761,4
+NHS Ipswich and East Suffolk CCG,35-44,63,17.697,4
+NHS Ipswich and East Suffolk CCG,45-54,44,17.697,4
+NHS Ipswich and East Suffolk CCG,55+,38,17.697,4
+NHS Ipswich and East Suffolk CCG,Under 35,61,17.697,4
+NHS Chorley and South Ribble CCG,35-44,46,17.612,4
+NHS Chorley and South Ribble CCG,45-54,17,17.612,4
+NHS Chorley and South Ribble CCG,55+,15,17.612,4
+NHS Chorley and South Ribble CCG,Under 35,62,17.612,4
+NHS West Cheshire CCG,35-44,50,17.601,4
+NHS West Cheshire CCG,45-54,30,17.601,4
+NHS West Cheshire CCG,55+,22,17.601,4
+NHS West Cheshire CCG,Under 35,63,17.601,4
+NHS Canterbury and Coastal CCG,35-44,46,17.548,4
+NHS Canterbury and Coastal CCG,45-54,29,17.548,4
+NHS Canterbury and Coastal CCG,55+,25,17.548,4
+NHS Canterbury and Coastal CCG,Under 35,33,17.548,4
+NHS North Staffordshire CCG,35-44,22,17.516,4
+NHS North Staffordshire CCG,45-54,15,17.516,4
+NHS North Staffordshire CCG,55+,13,17.516,4
+NHS North Staffordshire CCG,Under 35,31,17.516,4
+NHS South Worcestershire CCG,35-44,36,17.416,4
+NHS South Worcestershire CCG,45-54,28,17.416,4
+NHS South Worcestershire CCG,55+,25,17.416,4
+NHS South Worcestershire CCG,Under 35,54,17.416,4
+NHS Redbridge CCG,35-44,50,17.203,4
+NHS Redbridge CCG,45-54,39,17.203,4
+NHS Redbridge CCG,55+,18,17.203,4
+NHS Redbridge CCG,Under 35,78,17.203,4
+NHS Shropshire CCG,35-44,66,17.153,4
+NHS Shropshire CCG,45-54,40,17.153,4
+NHS Shropshire CCG,55+,28,17.153,4
+NHS Shropshire CCG,Under 35,56,17.153,4
+NHS Nottingham North and East CCG,35-44,38,17.041,4
+NHS Nottingham North and East CCG,45-54,25,17.041,4
+NHS Nottingham North and East CCG,55+,7,17.041,4
+NHS Nottingham North and East CCG,Under 35,38,17.041,4
+NHS Dorset CCG,35-44,114,16.986,4
+NHS Dorset CCG,45-54,101,16.986,4
+NHS Dorset CCG,55+,66,16.986,4
+NHS Dorset CCG,Under 35,97,16.986,4
+NHS South Cheshire CCG,35-44,37,16.956,4
+NHS South Cheshire CCG,45-54,24,16.956,4
+NHS South Cheshire CCG,55+,31,16.956,4
+NHS South Cheshire CCG,Under 35,54,16.956,4
+NHS South Eastern Hampshire CCG,35-44,57,16.929,4
+NHS South Eastern Hampshire CCG,45-54,35,16.929,4
+NHS South Eastern Hampshire CCG,55+,37,16.929,4
+NHS South Eastern Hampshire CCG,Under 35,53,16.929,4
+NHS Redditch and Bromsgrove CCG,35-44,36,16.797,4
+NHS Redditch and Bromsgrove CCG,45-54,23,16.797,4
+NHS Redditch and Bromsgrove CCG,55+,14,16.797,4
+NHS Redditch and Bromsgrove CCG,Under 35,51,16.797,4
+NHS Havering CCG,35-44,31,16.789,4
+NHS Havering CCG,45-54,24,16.789,4
+NHS Havering CCG,55+,13,16.789,4
+NHS Havering CCG,Under 35,57,16.789,4
+NHS Cambridgeshire and Peterborough CCG,35-44,155,16.766,4
+NHS Cambridgeshire and Peterborough CCG,45-54,82,16.766,4
+NHS Cambridgeshire and Peterborough CCG,55+,65,16.766,4
+NHS Cambridgeshire and Peterborough CCG,Under 35,154,16.766,4
+NHS Wandsworth CCG,35-44,71,16.611,4
+NHS Wandsworth CCG,45-54,45,16.611,4
+NHS Wandsworth CCG,55+,18,16.611,4
+NHS Wandsworth CCG,Under 35,97,16.611,4
+NHS Bexley CCG,35-44,37,16.273,4
+NHS Bexley CCG,45-54,23,16.273,4
+NHS Bexley CCG,55+,17,16.273,4
+NHS Bexley CCG,Under 35,51,16.273,4
+NHS South Norfolk CCG,35-44,32,16.235,4
+NHS South Norfolk CCG,45-54,25,16.235,4
+NHS South Norfolk CCG,55+,21,16.235,4
+NHS South Norfolk CCG,Under 35,28,16.235,4
+NHS Coastal West Sussex CCG,35-44,99,16.198,4
+NHS Coastal West Sussex CCG,45-54,59,16.198,4
+NHS Coastal West Sussex CCG,55+,61,16.198,4
+NHS Coastal West Sussex CCG,Under 35,99,16.198,4
+NHS Barnet CCG,35-44,61,16.148,4
+NHS Barnet CCG,45-54,49,16.148,4
+NHS Barnet CCG,55+,39,16.148,4
+NHS Barnet CCG,Under 35,104,16.148,4
+NHS Trafford CCG,35-44,59,16.088,4
+NHS Trafford CCG,45-54,34,16.088,4
+NHS Trafford CCG,55+,11,16.088,4
+NHS Trafford CCG,Under 35,76,16.088,4
+NHS East Riding of Yorkshire CCG,35-44,36,16.083,4
+NHS East Riding of Yorkshire CCG,45-54,27,16.083,4
+NHS East Riding of Yorkshire CCG,55+,16,16.083,4
+NHS East Riding of Yorkshire CCG,Under 35,34,16.083,4
+NHS West Suffolk CCG,35-44,49,16.006,4
+NHS West Suffolk CCG,45-54,37,16.006,4
+NHS West Suffolk CCG,55+,37,16.006,4
+NHS West Suffolk CCG,Under 35,42,16.006,4
+NHS South West  Lincolnshire CCG,35-44,27,15.851,4
+NHS South West  Lincolnshire CCG,45-54,16,15.851,4
+NHS South West  Lincolnshire CCG,55+,8,15.851,4
+NHS South West  Lincolnshire CCG,Under 35,15,15.851,4
+NHS South East Staffordshire and Seisdon Peninsula CCG,35-44,37,15.482,4
+NHS South East Staffordshire and Seisdon Peninsula CCG,45-54,28,15.482,4
+NHS South East Staffordshire and Seisdon Peninsula CCG,55+,13,15.482,4
+NHS South East Staffordshire and Seisdon Peninsula CCG,Under 35,60,15.482,4
+NHS West Essex CCG,35-44,40,15.223,4
+NHS West Essex CCG,45-54,24,15.223,4
+NHS West Essex CCG,55+,13,15.223,4
+NHS West Essex CCG,Under 35,76,15.223,4
+NHS Harrow CCG,35-44,43,15.031,4
+NHS Harrow CCG,45-54,21,15.031,4
+NHS Harrow CCG,55+,29,15.031,4
+NHS Harrow CCG,Under 35,79,15.031,4
+NHS Gloucestershire CCG,35-44,81,14.932,4
+NHS Gloucestershire CCG,45-54,87,14.932,4
+NHS Gloucestershire CCG,55+,42,14.932,4
+NHS Gloucestershire CCG,Under 35,105,14.932,4
+NHS Bedfordshire CCG,35-44,69,14.721,4
+NHS Bedfordshire CCG,45-54,49,14.721,4
+NHS Bedfordshire CCG,55+,31,14.721,4
+NHS Bedfordshire CCG,Under 35,154,14.721,4
+NHS Merton CCG,35-44,34,14.649,4
+NHS Merton CCG,45-54,21,14.649,4
+NHS Merton CCG,55+,14,14.649,4
+NHS Merton CCG,Under 35,40,14.649,4
+NHS Nottingham West CCG,35-44,16,14.238,4
+NHS Nottingham West CCG,45-54,16,14.238,4
+NHS Nottingham West CCG,55+,5,14.238,4
+NHS Nottingham West CCG,Under 35,32,14.238,4
+NHS South Lincolnshire CCG,35-44,18,14.232,4
+NHS South Lincolnshire CCG,45-54,12,14.232,4
+NHS South Lincolnshire CCG,55+,12,14.232,4
+NHS South Lincolnshire CCG,Under 35,15,14.232,4
+NHS Bromley CCG,35-44,67,14.163,4
+NHS Bromley CCG,45-54,48,14.163,4
+NHS Bromley CCG,55+,40,14.163,4
+NHS Bromley CCG,Under 35,69,14.163,4
+"NHS Hambleton, Richmondshire and Whitby CCG",35-44,32,14.052,4
+"NHS Hambleton, Richmondshire and Whitby CCG",45-54,23,14.052,4
+"NHS Hambleton, Richmondshire and Whitby CCG",55+,18,14.052,4
+"NHS Hambleton, Richmondshire and Whitby CCG",Under 35,47,14.052,4
+NHS Sutton CCG,35-44,28,13.987,4
+NHS Sutton CCG,45-54,22,13.987,4
+NHS Sutton CCG,55+,21,13.987,4
+NHS Sutton CCG,Under 35,55,13.987,4
+NHS East Berkshire CCG,35-44,74,13.984,4
+NHS East Berkshire CCG,45-54,56,13.984,4
+NHS East Berkshire CCG,55+,33,13.984,4
+NHS East Berkshire CCG,Under 35,158,13.984,4
+NHS Fareham and Gosport CCG,35-44,41,13.904,4
+NHS Fareham and Gosport CCG,45-54,28,13.904,4
+NHS Fareham and Gosport CCG,55+,15,13.904,4
+NHS Fareham and Gosport CCG,Under 35,38,13.904,4
+NHS East and North Hertfordshire CCG,35-44,124,13.759,4
+NHS East and North Hertfordshire CCG,45-54,71,13.759,4
+NHS East and North Hertfordshire CCG,55+,43,13.759,4
+NHS East and North Hertfordshire CCG,Under 35,186,13.759,4
+NHS Castle Point and Rochford CCG,35-44,22,13.718,4
+NHS Castle Point and Rochford CCG,45-54,14,13.718,4
+NHS Castle Point and Rochford CCG,55+,9,13.718,4
+NHS Castle Point and Rochford CCG,Under 35,52,13.718,4
+NHS Mid Essex CCG,35-44,61,13.515,4
+NHS Mid Essex CCG,45-54,20,13.515,4
+NHS Mid Essex CCG,55+,23,13.515,4
+NHS Mid Essex CCG,Under 35,102,13.515,4
+NHS West Kent CCG,35-44,91,13.496,4
+NHS West Kent CCG,45-54,59,13.496,4
+NHS West Kent CCG,55+,43,13.496,4
+NHS West Kent CCG,Under 35,69,13.496,4
+NHS Stafford and Surrounds CCG,35-44,24,13.476,4
+NHS Stafford and Surrounds CCG,45-54,16,13.476,4
+NHS Stafford and Surrounds CCG,55+,16,13.476,4
+NHS Stafford and Surrounds CCG,Under 35,41,13.476,4
+NHS Wiltshire CCG,35-44,77,13.447,4
+NHS Wiltshire CCG,45-54,44,13.447,4
+NHS Wiltshire CCG,55+,45,13.447,4
+NHS Wiltshire CCG,Under 35,94,13.447,4
+NHS West Leicestershire CCG,35-44,67,13.312,4
+NHS West Leicestershire CCG,45-54,46,13.312,4
+NHS West Leicestershire CCG,55+,23,13.312,4
+NHS West Leicestershire CCG,Under 35,100,13.312,4
+NHS High Weald Lewes Havens CCG,35-44,34,13.019,4
+NHS High Weald Lewes Havens CCG,45-54,34,13.019,4
+NHS High Weald Lewes Havens CCG,55+,22,13.019,4
+NHS High Weald Lewes Havens CCG,Under 35,33,13.019,4
+NHS Eastern Cheshire CCG,35-44,45,12.211,4
+NHS Eastern Cheshire CCG,45-54,34,12.211,4
+NHS Eastern Cheshire CCG,55+,18,12.211,4
+NHS Eastern Cheshire CCG,Under 35,49,12.211,4
+NHS East Surrey CCG,35-44,28,12.09,4
+NHS East Surrey CCG,45-54,25,12.09,4
+NHS East Surrey CCG,55+,19,12.09,4
+NHS East Surrey CCG,Under 35,53,12.09,4
+NHS North Hampshire CCG,35-44,48,12.046,4
+NHS North Hampshire CCG,45-54,17,12.046,4
+NHS North Hampshire CCG,55+,12,12.046,4
+NHS North Hampshire CCG,Under 35,41,12.046,4
+NHS Herts Valley CCG,35-44,111,11.912,4
+NHS Herts Valley CCG,45-54,85,11.912,4
+NHS Herts Valley CCG,55+,59,11.912,4
+NHS Herts Valley CCG,Under 35,166,11.912,4
+NHS Vale of York CCG,35-44,65,11.9,4
+NHS Vale of York CCG,45-54,44,11.9,4
+NHS Vale of York CCG,55+,30,11.9,4
+NHS Vale of York CCG,Under 35,100,11.9,4
+NHS South Warwickshire CCG,35-44,44,11.875,4
+NHS South Warwickshire CCG,45-54,36,11.875,4
+NHS South Warwickshire CCG,55+,15,11.875,4
+NHS South Warwickshire CCG,Under 35,61,11.875,4
+NHS Berkshire West CCG,35-44,69,11.828,4
+NHS Berkshire West CCG,45-54,49,11.828,4
+NHS Berkshire West CCG,55+,45,11.828,4
+NHS Berkshire West CCG,Under 35,136,11.828,4
+NHS North West Surrey CCG,35-44,80,11.821,4
+NHS North West Surrey CCG,45-54,50,11.821,4
+NHS North West Surrey CCG,55+,34,11.821,4
+NHS North West Surrey CCG,Under 35,82,11.821,4
+NHS Oxfordshire CCG,35-44,116,11.772,4
+NHS Oxfordshire CCG,45-54,68,11.772,4
+NHS Oxfordshire CCG,55+,49,11.772,4
+NHS Oxfordshire CCG,Under 35,184,11.772,4
+NHS Bath and North East Somerset CCG,35-44,37,11.745,4
+NHS Bath and North East Somerset CCG,45-54,27,11.745,4
+NHS Bath and North East Somerset CCG,55+,17,11.745,4
+NHS Bath and North East Somerset CCG,Under 35,50,11.745,4
+NHS Kingston CCG,35-44,48,11.381,4
+NHS Kingston CCG,45-54,14,11.381,4
+NHS Kingston CCG,55+,12,11.381,4
+NHS Kingston CCG,Under 35,50,11.381,4
+NHS West Hampshire CCG,35-44,107,11.325,4
+NHS West Hampshire CCG,45-54,69,11.325,4
+NHS West Hampshire CCG,55+,44,11.325,4
+NHS West Hampshire CCG,Under 35,94,11.325,4
+NHS Harrogate and Rural District CCG,35-44,27,10.897,4
+NHS Harrogate and Rural District CCG,45-54,24,10.897,4
+NHS Harrogate and Rural District CCG,55+,9,10.897,4
+NHS Harrogate and Rural District CCG,Under 35,48,10.897,4
+NHS East Leicestershire and Rutland CCG,35-44,46,10.704,4
+NHS East Leicestershire and Rutland CCG,45-54,38,10.704,4
+NHS East Leicestershire and Rutland CCG,55+,17,10.704,4
+NHS East Leicestershire and Rutland CCG,Under 35,73,10.704,4
+NHS North East Hampshire and Farnham CCG,35-44,33,10.4,4
+NHS North East Hampshire and Farnham CCG,45-54,26,10.4,4
+NHS North East Hampshire and Farnham CCG,55+,15,10.4,4
+NHS North East Hampshire and Farnham CCG,Under 35,41,10.4,4
+NHS Buckinghamshire CCG,35-44,79,10.027,4
+NHS Buckinghamshire CCG,45-54,61,10.027,4
+NHS Buckinghamshire CCG,55+,38,10.027,4
+NHS Buckinghamshire CCG,Under 35,154,10.027,4
+NHS Richmond CCG,35-44,31,9.425,5
+NHS Richmond CCG,45-54,19,9.425,5
+NHS Richmond CCG,55+,14,9.425,5
+NHS Richmond CCG,Under 35,45,9.425,5
+NHS Surrey Heath CCG,35-44,14,9.179,5
+NHS Surrey Heath CCG,45-54,12,9.179,5
+NHS Surrey Heath CCG,55+,10,9.179,5
+NHS Surrey Heath CCG,Under 35,22,9.179,5
+NHS Surrey Downs CCG,35-44,53,8.632,5
+NHS Surrey Downs CCG,45-54,38,8.632,5
+NHS Surrey Downs CCG,55+,15,8.632,5
+NHS Surrey Downs CCG,Under 35,69,8.632,5
+NHS Horsham and Mid Sussex CCG,35-44,55,8.459,5
+NHS Horsham and Mid Sussex CCG,45-54,52,8.459,5
+NHS Horsham and Mid Sussex CCG,55+,30,8.459,5
+NHS Horsham and Mid Sussex CCG,Under 35,94,8.459,5
+NHS Guildford and Waverley CCG,35-44,46,8.453,5
+NHS Guildford and Waverley CCG,45-54,25,8.453,5
+NHS Guildford and Waverley CCG,55+,24,8.453,5
+NHS Guildford and Waverley CCG,Under 35,40,8.453,5
+NHS Rushcliffe CCG,35-44,22,7.18,5
+NHS Rushcliffe CCG,45-54,15,7.18,5
+NHS Rushcliffe CCG,55+,7,7.18,5
+NHS Rushcliffe CCG,Under 35,34,7.18,5
