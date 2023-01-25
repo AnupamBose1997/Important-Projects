@@ -1,6 +1,6 @@
 import logging
 
-from octaipipe.models.model_base import Model
+
 from skl2onnx import convert_sklearn
 from sklearn.neighbors import KNeighborsClassifier
 
